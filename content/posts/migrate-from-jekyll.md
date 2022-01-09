@@ -140,7 +140,7 @@ to this (this example uses a slightly extended version named `fig`, different th
 
 As a bonus, the shortcode named parameters are, arguably, more readable.
 
-## Finishing touches
+## Finishing Touches
 ### Fix content
 Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that `hugo server --watch` is your friend. Test your changes and fix errors as needed.
 
