@@ -1,17 +1,10 @@
 +++
-title = "About Hugo"
+title = "About Gustavo"
 date = "2014-04-09"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+My name is **Gustavo Maranhão**. I'm a Back End Engineer based in São Luis - MA.
 
-It makes use of a variety of open source projects including:
+I describe myself as a passionate developer who loves coding, open source, and the web ❤️.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+I’m devops enthusiast, with interests in OS, low-code and computer network. 
