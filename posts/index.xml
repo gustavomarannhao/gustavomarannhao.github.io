@@ -128,7 +128,7 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 <p>As a bonus, the shortcode named parameters are, arguably, more readable.</p>
 <h2 id="finishing-touches">Finishing Touches</h2>
 <h3 id="fix-content">Fix content</h3>
-<p>Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that <code>hugo server --watch</code> is your friend. Test your changes and fix errors as needed.</p>
+<p>Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no HARD and fast rules here except that <code>hugo server --watch</code> is your friend. Test your changes and fix errors as needed.</p>
 <h3 id="clean-up">Clean up</h3>
 <p>You&rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&rsquo;t used, delete it.</p>
 <h2 id="a-practical-example-in-a-diff">A practical example in a diff</h2>
