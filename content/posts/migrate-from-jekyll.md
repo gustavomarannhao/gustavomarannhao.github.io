@@ -142,7 +142,7 @@ As a bonus, the shortcode named parameters are, arguably, more readable.
 
 ## Finishing Touches
 ### Fix content
-Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no hard and fast rules here except that `hugo server --watch` is your friend. Test your changes and fix errors as needed.
+Depending on the amount of customization that was done with each post with Jekyll, this step will require more or less effort. There are no HARD and fast rules here except that `hugo server --watch` is your friend. Test your changes and fix errors as needed.
 
 ### Clean up
 You'll want to remove the Jekyll configuration at this point. If you have anything else that isn't used, delete it.
