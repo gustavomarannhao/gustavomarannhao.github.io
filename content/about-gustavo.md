@@ -7,4 +7,4 @@ My name is **Gustavo Maranhão**. I'm a Back-End Developer based in São Luis - 
 
 I describe myself as a passionate developer who loves coding, open source, and the web ❤️.
 
-I’m devops enthusiast, with interests in OS, low-code and computer network. 
+I’m devops enthusiast, with interests in OS, low level code and computer network. 
